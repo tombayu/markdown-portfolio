@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Foods
+* Public transportation
+* Indonesian-Dutch history
+* Maps & spatial analysis
+* Cultural assimilation
